@@ -4,7 +4,7 @@ At the end of the course, I will learn SQL concepts like SQL Queries, SQL joints
 
 To learn SQL no prior experience is required. Anyone can learn easily. 
 
-## SQL -- > Structured queryLanguage
+## SQL -- > Structured query Language
 
 SQL is a standard database language used to access and manipulate data in the database.
 
